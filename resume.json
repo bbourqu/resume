@@ -24,19 +24,20 @@
     "company": "Walmart Stores Incorporated",
     "position": "Senior Systems Engineer",
     "website": "https://corporate.walmart.com/",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "startDate": "2008-06-23",
+    "endDate": "present",
+    "summary": "Cloud Powered Organization, working on platform services for developers",
     "highlights": [
-      "Started the company"
+      "OneOps Tomcat pack owner",
+      "API Management w/DataPower Appliances"
     ]
   }],
   "volunteer": [{
     "organization": "Pug Rescue of Northwest Arkansas",
     "position": "Sitting Board Member",
-    "website": "pugrescuenwa.com",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
+    "website": "http://pugrescuenwa.com",
+    "startDate": "2010",
+    "endDate": "present",
     "summary": "Description...",
     "highlights": [
       "Fostered 20+ pugs",
