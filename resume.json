@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Brett D Bourquin",
+    "label": "Senior Systems Engineer",
+    "picture": "",
+    "email": "brett@bourqu.in",
+    "phone": "(479) 747-7553",
+    "website": "https://brett.bourqu.in",
+    "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University.",
+    "location": {
+      "address": "18 Brookhaven Ct.",
+      "postalCode": "AR 72712",
+      "city": "Bentonville",
+      "countryCode": "US",
+      "region": "Northwest Arkansas"
+    },
+    "profiles": [{
+      "network": "Github",
+      "username": "bbourqu",
+      "url": "https://github.com/bbourqu"
+    }]
+  },
+  "work": [{
+    "company": "Walmart Stores Incorporated",
+    "position": "Senior Systems Engineer",
+    "website": "https://corporate.walmart.com/",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Pug Rescue of Northwest Arkansas",
+    "position": "Sitting Board Member",
+    "website": "pugrescuenwa.com",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Fostered 20+ pugs",
+      "Fail-fostered 'Nemo'",
+      "Helped create the dns for 'pugrescuenwa.com'",
+      "Currently the tech support for the organization"
+    ]
+  }],
+  "education": [{
+    "institution": "Arkansas Tech University",
+    "area": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Front-end design",
+    "keywords": [
+      "bower",
+      "gulp",
+      "yeoman"
+    ]
+  },
+  { "name": "Old Skool Games",
+    "keywords":[
+     "snes",
+     "nes",
+     "neo-geo arcade"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
