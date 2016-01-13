@@ -1,2 +1,2 @@
 # resume
-My Resume in &lt;a href="https://jsonresume.org/schema/">JSON Resume Format&lt;/a>
+My Resume in [JSON Resume Format](https://jsonresume.org/schema/)
