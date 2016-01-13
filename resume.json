@@ -31,6 +31,17 @@
       "OneOps Tomcat pack owner",
       "API Management w/DataPower Appliances"
     ]
+  },
+  {
+    "company": "Arkansas National Guard, US Army",
+    "position": "E4 Specialist",
+    "website": "http://www.arguard.org",
+    "startDate": "2004-05",
+    "endDate": "2012-05",
+    "summary": "1-142nd Field Artillery HQ/C/B Batteries",
+    "highlights": [
+      "16 month tour Iraq with C Battery (Winter 2005-Spring 2007)[Operation Iraqi Freedom]"
+    ]
   }],
   "volunteer": [{
     "organization": "Pug Rescue of Northwest Arkansas",
@@ -38,7 +49,7 @@
     "website": "http://pugrescuenwa.com",
     "startDate": "2010",
     "endDate": "present",
-    "summary": "Description...",
+    "summary": "Provide guidance on fostering and placement of pugs as well as organize events and fundraising efforts",
     "highlights": [
       "Fostered 20+ pugs",
       "Fail-fostered 'Nemo'",
@@ -50,33 +61,18 @@
     "institution": "Arkansas Tech University",
     "area": "Computer Science",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
+    "startDate": "2002-08",
+    "endDate": "2008-05",
+    "gpa": "3.2"
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Tomcat Administration",
+    "level": "Intermediate",
     "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
+      "Shell Script",
+      "JVM",
+      "Puppet",
+      "Vagrant"
     ]
   }],
   "languages": [{
