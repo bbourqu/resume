@@ -2,7 +2,7 @@
   "basics": {
     "name": "Brett D Bourquin",
     "label": "Senior Systems Engineer",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/14934977?v=3",
     "email": "brett@bourqu.in",
     "phone": "(479) 747-7553",
     "website": "https://brett.bourqu.in",
@@ -18,7 +18,12 @@
       "network": "Github",
       "username": "bbourqu",
       "url": "https://github.com/bbourqu"
-    }]
+    },{
+      "network": "freeCodeCamp",
+      "username": "bbourqu",
+      "url": "http://www.freecodecamp.com/bbourqu"
+    }
+    ]
   },
   "work": [{
     "company": "Walmart Stores Incorporated",
