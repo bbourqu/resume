@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Brett D Bourquin",
-    "label": "Senior Systems Engineer",
+    "label": "Technical Expert",
     "picture": "https://www.gravatar.com/avatar/95fbf0eba784618f4fd8f825f924c871",
     "email": "brett@bourqu.in",
     "phone": "(479) 747-7553",
     "website": "https://brett.bourqu.in",
     "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidance, and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
     "location": {
-      "address": "18 Brookhaven Ct.",
+      "address": "7 Edgewater Ln",
       "postalCode": "AR 72712",
       "city": "Bentonville",
       "countryCode": "US",
@@ -36,7 +36,7 @@
   },
   "work": [{
     "company": "Walmart Stores Incorporated",
-    "position": "Senior Systems Engineer",
+    "position": "Technical Expert",
     "website": "https://corporate.walmart.com/",
     "startDate": "2008-06-23",
     "endDate": "present",
@@ -86,12 +86,13 @@
   }],
   "skills": [{
     "name": "Tomcat Administration",
-    "level": "Intermediate",
+    "level": "Master",
     "keywords": [
       "Shell Script",
       "JVM",
       "Puppet",
-      "Vagrant"
+      "Vagrant",
+      "Ansible"
     ]
   },{
     "name": "OneOps pack Development",
@@ -101,6 +102,7 @@
       "Chef",
       "Ruby",
       "OpenStack"
+      "Azure"
     ]
   },{
     "name": "Java",
