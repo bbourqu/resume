@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Brett D Bourquin",
-    "label": "Technical Expert",
+    "label": "Principal Software Architect",
     "picture": "https://www.gravatar.com/avatar/95fbf0eba784618f4fd8f825f924c871",
     "email": "brett@bourqu.in",
     "phone": "(479) 747-7553",
@@ -27,14 +27,23 @@
      "network": "linkedin",
      "username":"brettbourquin",
      "url": "https://www.linkedin.com/in/brett-bourquin-507255115"
-    },{
-      "network": "Twitter",
-      "username": "bdbourquin",
-      "url": "https://twitter.com/bdbourquin"
     }
     ]
   },
   "work": [{
+    "company": "Walmart Stores Incorporated",
+    "position": "Principal Software Architect",
+    "website": "https://corporate.walmart.com/",
+    "startDate": "2017",
+    "endDate": "present",
+    "summary": "Cloud Powered Organization, working on cloud native services for developers",
+    "highlights": [
+      "Managed Servlet Platform for Java Servlet Applications",
+      "CI/CD Pipeline Automation",
+      "Cloud Native Infrastructure Services and Automations"
+    ]
+   },
+   {
     "company": "Walmart Stores Incorporated",
     "position": "Technical Expert",
     "website": "https://corporate.walmart.com/",
@@ -62,7 +71,7 @@
     "position": "Sitting Board Member",
     "website": "http://pugrescuenwa.com",
     "startDate": "2010",
-    "endDate": "present",
+    "endDate": "2016",
     "summary": "Provide guidance on fostering and placement of pugs as well as organize events and fundraising efforts",
     "highlights": [
       "Fostered 20+ pugs",
