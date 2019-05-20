@@ -6,7 +6,7 @@
     "email": "brett@bourqu.in",
     "phone": "(479) 747-7553",
     "website": "https://brett.bourqu.in",
-    "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidance, and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
+    "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidence , and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
     "location": {
       "address": "7 Edgewater Ln",
       "postalCode": "AR 72712",
@@ -47,8 +47,8 @@
     "company": "Walmart Stores Incorporated",
     "position": "Technical Expert",
     "website": "https://corporate.walmart.com/",
-    "startDate": "2008-06-23",
-    "endDate": "present",
+    "startDate": "2008-06",
+    "endDate": "2017",
     "summary": "Cloud Powered Organization, working on platform services for developers",
     "highlights": [
       "OneOps Tomcat pack owner",
@@ -77,9 +77,21 @@
       "Fostered 20+ pugs",
       "Fail-fostered 'Nemo'",
       "Helped create the dns for 'pugrescuenwa.com'",
-      "Currently the tech support for the organization"
+      "Tech support for the organization"
     ]
-  }],
+    },
+    {
+      "organization": "Boy Scouts of America",
+      "position": "Assistant Den Leader, Committee Secretary",
+      "website": "http://www.westarkbsa.org/",
+      "startDate": "2018",
+      "endDate": "present",
+      "summary": "Provide guidance and leadership to a Den of cub scouts and take meeting notes at committee meetings",
+      "highlights": [
+        "Youth Protection Trained",
+        "Introduction to Outdoor Leadership Trained"
+      ]
+    }],
   "education": [{
     "institution": "Arkansas Tech University",
     "area": "Computer and Information Sciences",
@@ -101,7 +113,8 @@
       "JVM",
       "Puppet",
       "Vagrant",
-      "Ansible"
+      "Ansible",
+      "Enterprise Docker Image Maintainer"
     ]
   },{
     "name": "OneOps pack Development",
@@ -110,7 +123,7 @@
       "Shell Script",
       "Chef",
       "Ruby",
-      "OpenStack"
+      "OpenStack",
       "Azure"
     ]
   },{
@@ -122,7 +135,8 @@
       "JUnit",
       "Jenkins",
       "1.7",
-      "1.8"
+      "1.8",
+      "11"
     ]
   },{
     "name": "ServiceNow",
@@ -135,7 +149,7 @@
     ]
   },{
     "name": "DataPower Administration",
-    "level": "Master",
+    "level": "Intermediate",
     "keywords": [
       "Rack n' Stack of Hardware",
       "Networking",
