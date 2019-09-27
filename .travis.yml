@@ -1,9 +1,10 @@
 language: node_js
 node_js:
-  - node
-
-
+- node
 before_install:
-  - npm install hackmyresume -g
-  - npm install 1mb-cli -g
+- npm install hackmyresume -g
+- npm install 1mb-cli -g
 script: hackmyresume build resume.json out/index.html -t modern
+env:
+  global:
+    secure: F8ql0d4u7+fprCFVJLeFmmDOxWNQAufDuYIlFE9gHwWCM84ff2Ldza/pxaFEYr7THysNacQehaEVjx/AsydFYqriaArHKbOdIqmo60uBd8U0h3pLuaDdGMKvwtx9TjeSsx5EA6wafptUmH8NNrtcHCkA5ITDn+O8HCA7atVRIJyOFJa62RgD1n7pW976zGAGPalmCqIy6jd09OlFtWiarQvavDIjcli2WBihZlzX2bwpvu8HAMtA48rXEDSSiB+YPsmuRym1b6Ol92wYjk9xlxlxv8PeJ673lDL8itaeJznKzxezsHHGX3uuG75y+qxpphyGVHuBKKAxP217wlV8NQiftmfsJ+qik8Bv2LBU7ZacXXX4rhFoA+lvDkgDnQTwcS1AN5w5HiFafJLQaKjypXXVF0Ae+LsVsqF2GCg+Iijn1mrzmqWLyxgP6hPMykUlEBO9oiRz2e3KZbe0hi659GtgR5486mz+yDdVhNOBkZ0wY+u6aAeuK1XHKn4vi0uU5fjYStpWTrNiMqor9Gzy5uZy0HWfmopAvmcUOmr8Ykdwfa6zqp0Jj8JC/EeY/3ZAySq3Rv3/G1VtarNtK4EtAwWSLknNfc32h5pZjWB8gH5Fxwrzj034//cxxmaNOSlQ21a6hGnOgRdT1lgSCsAjrLzxWWbUn170m60zmdaWlok=
