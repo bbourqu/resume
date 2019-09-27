@@ -5,4 +5,5 @@ node_js:
 
 before_install:
   - npm install hackmyresume -g
+  - npm install 1mb-cli -g
 script: hackmyresume build resume.json out/index.html -t modern
