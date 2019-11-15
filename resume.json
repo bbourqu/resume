@@ -160,8 +160,18 @@
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
+  },{
+    "language": "Spanish",
+    "fluency": "Beginner"
   }],
   "interests": [{
+    "name": "Books",
+    "keywords":[
+      "The Phoenix Project",
+      "<del>Accelerate</del> Done",
+      "Daily Coding Problem"
+    ]
+  },{
     "name": "Front-end design",
     "keywords": [
       "bower",
