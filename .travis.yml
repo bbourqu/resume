@@ -3,7 +3,7 @@ node_js:
 - node
 before_install:
 - npm install hackmyresume -g
-script: hackmyresume build resume.json out/index.html -t modern && curl -v -XPOST -Faction=deploy
+script: hackmyresume build resume.json out/index.html -t modern && less out/index.html && curl -v -XPOST -Faction=deploy
   -Fsite="$MB_SITE" -Fkey="$MB_KEY" -F "resource=index.html" -F "code=@out/index.html" https://api.1mb.site
 env:
   global:
