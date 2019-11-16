@@ -102,8 +102,8 @@
   },{
     "institution": "Free Code Camp",
     "area": "Full Stack Web Development Certification, Computer Software Engineering",
-    "startDate": "2016",
-    "endDate" : "2018"
+    "startDate": "2016-01-01",
+    "endDate" : "2018-12-30"
   }],
   "skills": [{
     "name": "Tomcat Administration",
@@ -170,20 +170,6 @@
       "The Phoenix Project",
       "<del>Accelerate</del> Done",
       "Daily Coding Problem"
-    ]
-  },{
-    "name": "Front-end design",
-    "keywords": [
-      "bower",
-      "gulp",
-      "yeoman"
-    ]
-  },
-  { "name": "Old Skool Games",
-    "keywords":[
-     "snes",
-     "nes",
-     "neo-geo arcade"
     ]
   }],
   "references": [{
