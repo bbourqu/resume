@@ -70,8 +70,8 @@
     "organization": "Pug Rescue of Northwest Arkansas",
     "position": "Sitting Board Member",
     "website": "http://pugrescuenwa.com",
-    "startDate": "2010",
-    "endDate": "2016",
+    "startDate": "2010-01-01",
+    "endDate": "2016-12-31",
     "summary": "Provide guidance on fostering and placement of pugs as well as organize events and fundraising efforts",
     "highlights": [
       "Fostered 20+ pugs",
@@ -84,8 +84,8 @@
       "organization": "Boy Scouts of America",
       "position": "Assistant Den Leader, Committee Secretary",
       "website": "http://www.westarkbsa.org/",
-      "startDate": "2018",
-      "endDate": "present",
+      "startDate": "2018-01-01",
+      "endDate": "2019-12-31",
       "summary": "Provide guidance and leadership to a Den of cub scouts and take meeting notes at committee meetings",
       "highlights": [
         "Youth Protection Trained",
