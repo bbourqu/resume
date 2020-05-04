@@ -5,7 +5,7 @@
     "picture": "https://www.gravatar.com/avatar/95fbf0eba784618f4fd8f825f924c871",
     "email": "brett@bourqu.in",
     "website": "https://brett.bourqu.in",
-    "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidence , and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
+    "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidence, and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
     "location": {
       "city": "Bentonville",
       "countryCode": "US",
@@ -28,12 +28,13 @@
     "position": "Principal Software Architect",
     "website": "https://corporate.walmart.com/",
     "startDate": "2017-01-01",
-    "endDate": "2019-12-31",
+    "endDate": "2020-12-31",
     "summary": "Cloud Powered Organization, working on cloud native services for developers",
     "highlights": [
       "Managed Servlet Platform for Java Servlet Applications",
       "CI/CD Pipeline Automation",
-      "Cloud Native Infrastructure Services and Automations"
+      "Cloud Native Infrastructure Services and Automations",
+      "Custom Scaling using Business Metrics"
     ]
    },
    {
@@ -82,7 +83,8 @@
       "summary": "Provide guidance and leadership to a Den of cub scouts and take meeting notes at committee meetings",
       "highlights": [
         "Youth Protection Trained",
-        "Introduction to Outdoor Leadership Trained"
+        "Introduction to Outdoor Leadership Trained",
+        "Wood Badge[Working my Tickets]"
       ]
     }],
   "education": [{
@@ -99,6 +101,16 @@
     "endDate" : "2018-12-30"
   }],
   "skills": [{
+    "name": "Kubernetes",
+    "level": "Intermediate",
+    "keywords":[
+      "Custom Resource Definitions",
+      "CI/CD Pipeline Creation",
+      "Build Automation",
+      "Image Optimization",
+      "Developer Experience"
+    ]
+  },{
     "name": "Tomcat Administration",
     "level": "Master",
     "keywords": [
@@ -111,7 +123,7 @@
     ]
   },{
     "name": "OneOps pack Development",
-    "level": "Master",
+    "level": "Intermediate",
     "keywords": [
       "Shell Script",
       "Chef",
