@@ -5,7 +5,9 @@ before_install:
 - sudo apt-get -y install httpie
 - npm install -g resume-cli
 - npm install -g jsonresume-theme-spartan
-script: resume export --theme spartan resume.html && http -f POST https://api.1mb.co action=deploy site="$MB_SITE" key="$MB_KEY" resource=index.html code=@resume.html
+script:
+- 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then resume test; fi'
+- 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then resume export --theme spartan resume.html && http -f POST https://api.1mb.co action=deploy site="$MB_SITE" key="$MB_KEY" resource=index.html code=@resume.html; fi'
 env:
   global:
   - secure: vAAD/OJe2wbj1H/dzZlAP66X16pgW1O7idFaXZTnHrKkc/UE80/Z30xNleoBfeCEvaB20SzYWiDCJNfuCIia5wYKdpIRlNhR21RFw84UvcLLc3DmfcrFyDrULkvjyQP1ZcHYtcrLoKBcdSGioHXg9iaVehMGMnVpKySDNvLC6fuIAK5NYFH+op7nmE4V/j7HCTgdo4y2MjylJX5puFUy6mxzIcSmlXbSgA+RDef39fADao56RDzsq9ixqmkB9USumhGCbMNUDR8XaCXK8aidWH1/anZtYXvelnjErSUochV3CHdjmn0f/iE1Fa2f93Ip7KJ6+G2jLuT9Rz8aE0HTrQCA7xsiXDJNM+S3kA0Qh6zNBRY1uMGWA/ANgkGyYA8kR0QahdRaWk1pVgFnhQNg91d/dOGKuK85t9mHGcEviWMYC41o+2TjyZL9CUq1o2Qt5Wys7JJZ3YBhqTQ22yjUJRw8snRwFob0FldA70J26cWy4XJLxNRtFHCo/60hgSIHgUZTJv7aXdRFGJ2+RLItJpmvoAN9pJQru82yTHM6CWIWpmDVVt6Y/lqFKI194y3/GCSI/aiRDzVTkpIMln4AAIaPGvhpA/UEt0oEO40upXNYGCzbTwSP0tT0XfpjPrcnG5LEsegqn6m/VfIFaT1eE4ZoDQj2Q1G6fEQ4OrJbQhE=
