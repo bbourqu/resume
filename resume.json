@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Brett D Bourquin",
-    "label": "Principal Software Architect",
+    "label": "Principal System Engineer",
     "picture": "https://www.gravatar.com/avatar/95fbf0eba784618f4fd8f825f924c871",
     "email": "brett@bourqu.in",
-    "website": "https://brett.bourqu.in",
-    "summary": "Brett 'twas born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidence, and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
+    "summary": "Brett was born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidence, and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
     "location": {
       "city": "Bentonville",
       "countryCode": "US",
@@ -25,16 +24,26 @@
   },
   "work": [{
     "company": "Walmart Stores Incorporated",
-    "position": "Principal Software Architect",
+    "position": "Principal System Engineer",
+    "website": "https://corporate.walmart.com/",
+    "startDate": "2020-06-31",
+    "endDate": "2021-05-26",
+    "summary": "Developer Productivity, CI/CD Tools",
+    "highlights": [
+      "CI/CD Pipeline Architecture",
+      "Concord, Looper, Github Developer Training Consultant"
+    ]
+   },
+    {
+    "company": "Walmart Stores Incorporated",
+    "position": "Principal System Engineer",
     "website": "https://corporate.walmart.com/",
     "startDate": "2017-01-01",
-    "endDate": "2020-12-31",
+    "endDate": "2020-06-31",
     "summary": "Cloud Powered Organization, working on cloud native services for developers",
     "highlights": [
       "Managed Servlet Platform for Java Servlet Applications",
-      "CI/CD Pipeline Automation",
-      "Cloud Native Infrastructure Services and Automations",
-      "Custom Scaling using Business Metrics"
+      "CI/CD Pipeline Automation"
     ]
    },
    {
@@ -45,8 +54,7 @@
     "endDate": "2017-01-01",
     "summary": "Cloud Powered Organization, working on platform services for developers",
     "highlights": [
-      "OneOps Tomcat pack owner",
-      "API Management w/DataPower Appliances"
+      "OneOps Tomcat pack owner"
     ]
   },
   {
@@ -57,34 +65,19 @@
     "endDate": "2012-05-01",
     "summary": "1-142nd Field Artillery HQ/C/B Batteries",
     "highlights": [
-      "16 month tour Iraq with C Battery (Winter 2005-Spring 2007)[Operation Iraqi Freedom]"
+      "16 month tour Iraq with C Battery(2005-2007)[Operation Iraqi Freedom]"
     ]
   }],
-  "volunteer": [{
-    "organization": "Pug Rescue of Northwest Arkansas",
-    "position": "Sitting Board Member",
-    "website": "http://pugrescuenwa.com",
-    "startDate": "2010-01-01",
-    "endDate": "2016-12-31",
-    "summary": "Provide guidance on fostering and placement of pugs as well as organize events and fundraising efforts",
-    "highlights": [
-      "Fostered 20+ pugs",
-      "Fail-fostered 'Nemo'",
-      "Helped create the dns for 'pugrescuenwa.com'",
-      "Tech support for the organization"
-    ]
-    },
+  "volunteer": [
     {
       "organization": "Boy Scouts of America",
-      "position": "Assistant Den Leader, Committee Secretary",
+      "position": "Cub Master",
       "website": "http://www.westarkbsa.org/",
       "startDate": "2018-01-01",
-      "endDate": "2019-12-31",
-      "summary": "Provide guidance and leadership to a Den of cub scouts and take meeting notes at committee meetings",
+      "endDate": "2021-12-31",
+      "summary": "Provide guidance and leadership to a Pack of Cub Scouts",
       "highlights": [
-        "Youth Protection Trained",
-        "Introduction to Outdoor Leadership Trained",
-        "Wood Badge[Working my Tickets]"
+        "Wood Badge 2019-2021"
       ]
     }],
   "education": [{
@@ -94,11 +87,6 @@
     "startDate": "2002-08-01",
     "endDate": "2008-05-30",
     "gpa": "3.2"
-  },{
-    "institution": "Free Code Camp",
-    "area": "Full Stack Web Development Certification, Computer Software Engineering",
-    "startDate": "2016-01-01",
-    "endDate" : "2018-12-30"
   }],
   "skills": [{
     "name": "Kubernetes",
@@ -107,9 +95,7 @@
       "Custom Resource Definitions",
       "CI/CD Pipeline Creation",
       "Build Automation",
-      "Image Optimization",
-      "Developer Experience",
-      "Documentation"
+      "Developer Experience"
     ]
   },{
     "name": "Tomcat Administration",
@@ -117,20 +103,7 @@
     "keywords": [
       "Shell Script",
       "JVM",
-      "Puppet",
-      "Vagrant",
-      "Ansible",
       "Enterprise Docker Image Maintainer"
-    ]
-  },{
-    "name": "OneOps pack Development",
-    "level": "Intermediate",
-    "keywords": [
-      "Shell Script",
-      "Chef",
-      "Ruby",
-      "OpenStack",
-      "Azure"
     ]
   },{
     "name": "Java",
@@ -139,28 +112,8 @@
       "Spring",
       "Maven",
       "JUnit",
-      "Jenkins",
-      "1.7",
       "1.8",
       "11"
-    ]
-  },{
-    "name": "ServiceNow",
-    "level": "Beginner",
-    "keywords": [
-      "Item Creator",
-      "Jelly",
-      "Glide",
-      "CMS"
-    ]
-  },{
-    "name": "DataPower Administration",
-    "level": "Intermediate",
-    "keywords": [
-      "Rack n' Stack of Hardware",
-      "Networking",
-      "FIPS 140-2 Compliance and Configuration",
-      "SOMA API Calling and Scripting"
     ]
   }],
   "languages": [{
@@ -170,14 +123,7 @@
     "language": "Spanish",
     "fluency": "Beginner"
   }],
-  "interests": [{
-    "name": "Books",
-    "keywords":[
-      "The Phoenix Project [Done]",
-      "Accelerate [Done]",
-      "Daily Coding Problem"
-    ]
-  }],
+  "interests": [],
   "references": [{
     "name": "",
     "reference": ""

@@ -3,8 +3,7 @@ node_js:
 - node
 before_install:
 - sudo apt-get -y install httpie
-- npm install -g resume-cli
-- npm install -g jsonresume-theme-spartan
+- npm install
 script:
 - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then resume test; fi'
 - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then resume export --theme spartan resume.html && http -f POST https://api.1mb.co action=deploy site="$MB_SITE" key="$MB_KEY" resource=index.html code=@resume.html; fi'
