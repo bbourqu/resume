@@ -10,4 +10,4 @@ jobs:
           node-version: '16'
       - run: npm install -g resume-cli
       - run: npm install
-      - run: resume test
+      - run: resume validate
