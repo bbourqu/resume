@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Brett D Bourquin",
-    "label": "Principal System Engineer",
+    "label": "Distinguished Software Engineer",
     "picture": "https://www.gravatar.com/avatar/95fbf0eba784618f4fd8f825f924c871",
     "email": "brett@bourqu.in",
     "summary": "Brett was born and raised in Arkansas.  He earned a Computer Science Degree from Arkansas Tech University with an emphasis in Language Design. He is know for his  high-energy, confidence, and infectious enthusiasm for technology.  On his off time he enjoys indie games, playing with his children,loving his wife, and messing around with frameworks on his raspberry pi(s).",
@@ -24,14 +24,24 @@
   },
   "work": [{
     "company": "Walmart Stores Incorporated",
-    "position": "Principal System Engineer",
+    "position": "Distinguished Software Engineer",
     "website": "https://corporate.walmart.com/",
-    "startDate": "2020-06-31",
-    "endDate": "2021-05-26",
+    "startDate": "2021-10-16",
     "summary": "Developer Productivity, CI/CD Tools",
     "highlights": [
       "CI/CD Pipeline Architecture",
-      "Concord, Looper, Github Developer Training Consultant"
+      "Concord, Looper, Github, Developer Training Consultant"
+    ]
+   },{
+    "company": "Walmart Stores Incorporated",
+    "position": "Principal System Engineer",
+    "website": "https://corporate.walmart.com/",
+    "startDate": "2020-06-30",
+    "endDate": "2021-10-16",
+    "summary": "Developer Productivity, CI/CD Tools",
+    "highlights": [
+      "CI/CD Pipeline Architecture",
+      "Concord, Looper, Github, Developer Training Consultant"
     ]
    },
     {
@@ -39,7 +49,7 @@
     "position": "Principal System Engineer",
     "website": "https://corporate.walmart.com/",
     "startDate": "2017-01-01",
-    "endDate": "2020-06-31",
+    "endDate": "2020-06-30",
     "summary": "Cloud Powered Organization, working on cloud native services for developers",
     "highlights": [
       "Managed Servlet Platform for Java Servlet Applications",
@@ -74,7 +84,6 @@
       "position": "Cub Master",
       "website": "http://www.westarkbsa.org/",
       "startDate": "2018-01-01",
-      "endDate": "2021-12-31",
       "summary": "Provide guidance and leadership to a Pack of Cub Scouts",
       "highlights": [
         "Wood Badge 2019-2021"
