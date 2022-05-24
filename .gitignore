@@ -29,4 +29,6 @@ node_modules
 out
 .idea
 .uuid
-
+# Output files
+index.html
+resume.pdf
