@@ -8,6 +8,5 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
-      - run: npm install -g resume-cli
       - run: npm install
-      - run: resume validate
+      - run: npm run validate

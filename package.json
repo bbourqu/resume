@@ -12,7 +12,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "resumed export -o index.html -t spartan",
-    "pdf": "node pdf.js"
+    "pdf": "node pdf.js",
+    "validate": "resumed validate"
   },
   "repository": {
     "type": "git",
