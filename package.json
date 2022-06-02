@@ -1,17 +1,24 @@
 {
+  "private": true,
+  "type": "module",
   "name": "resume",
   "version": "1.0.0",
   "description": "My Resume in [JSON Resume Format](https://jsonresume.org/schema/)",
-  "main": "index.js",
-  "devDependencies": {},
+  "main": "pdf.js",
+  "devDependencies": {
+    "jsonresume-theme-spartan": "^0.3.0",
+    "resumed": "^1.0.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "resumed export -o index.html -t spartan",
+    "pdf": "node pdf.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bbourqu/resume.git"
   },
-  "author": "",
+  "author": "Brett Bourquin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bbourqu/resume/issues"
@@ -19,9 +26,9 @@
   "homepage": "https://github.com/bbourqu/resume#readme",
   "dependencies": {
     "chromium": "^3.0.2",
-    "jsonresume-theme-paper": "^0.5.0",
     "jsonresume-theme-spartan": "^0.3.0",
-    "puppeteer": "^9.1.1",
-    "resume-cli": "^3.0.4"
+    "jsonresume-theme-paper": "^0.5.0",
+    "puppeteer": "^14.2.0",
+    "resumed": "^1.0.3"
   }
 }
