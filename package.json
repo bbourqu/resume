@@ -28,7 +28,7 @@
   "dependencies": {
     "chromium": "^3.0.2",
     "jsonresume-theme-spartan": "^0.3.0",
-    "puppeteer": "^14.2.0",
+    "puppeteer": "^23.9.0",
     "resumed": "^4.0.0"
   }
 }
